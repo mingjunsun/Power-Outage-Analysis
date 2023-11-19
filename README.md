@@ -1,4 +1,5 @@
 # Power Outage Analysis
+This is the Project 3 under course DSC80
 by Mingjun Sun and Ziqi Shang
 
 
