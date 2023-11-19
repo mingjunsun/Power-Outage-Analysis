@@ -1,0 +1,7 @@
+| OUTAGE.START        |   OUTAGE.DURATION | U.S._STATE   | CLIMATE.CATEGORY   | OUTAGE.RESTORATION.DATE   | CAUSE.CATEGORY.DETAIL   |
+|:--------------------|------------------:|:-------------|:-------------------|:--------------------------|:------------------------|
+| 2015-07-18 02:00:00 |              1740 | Minnesota    | warm               | 2015-07-19 00:00:00       | nan                     |
+| 2012-06-19 04:30:00 |              2550 | Minnesota    | normal             | 2012-06-20 00:00:00       | thunderstorm            |
+| 2010-10-26 20:00:00 |              3000 | Minnesota    | cold               | 2010-10-28 00:00:00       | heavy wind              |
+| 2014-01-24 00:00:00 |            108653 | Wisconsin    | cold               | 2014-04-09 00:00:00       | Coal                    |
+| 2013-08-12 11:55:00 |                 4 | Oregon       | normal             | 2013-08-12 00:00:00       | suspicious activity     |
